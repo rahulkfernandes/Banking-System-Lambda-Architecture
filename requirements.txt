@@ -1,0 +1,4 @@
+python-dotenv>=1.0.1
+pyspark>=3.5.4
+mysql-connector-python>=9.2.0
+kafka-python>=2.1.5

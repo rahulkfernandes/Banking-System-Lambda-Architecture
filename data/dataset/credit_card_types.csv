@@ -1,0 +1,6 @@
+card_type_id,name,credit_score_min,credit_score_max,credit_limit_min,credit_limit_max,annual_fee,rewards_rate
+1,Basic,580,669,1000,5000,0,0.005
+2,Gold,670,739,5000,10000,95,0.01
+3,Platinum,740,799,10000,25000,195,0.02
+4,Diamond,800,850,25000,50000,495,0.03
+5,Black,800,850,50000,100000,695,0.05
