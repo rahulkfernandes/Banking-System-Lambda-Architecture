@@ -65,7 +65,7 @@ Columns:
 
 ### Clone Git Repository
 ```
-git clone git@git.rc.rit.edu:s25-dsci-644-rahul/project-4.git
+git clone https://github.com/rahulkfernandes/Banking-System-Lambda-Architecture.git
 ```
 
 ### Download and Setup Kafka
