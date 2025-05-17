@@ -1,6 +1,4 @@
-# Project-4
-
-## Banking System with Lambda Architecture
+# Banking System with Lambda Architecture
 
 ## Description
 This project implements a credit card transaction processing system using the Lambda Architecture with stream and batch processing components, as well as a serving layer to query the data. The system tracks card balances, approves or declines transactions based on validation rules, and manages data flow between stream and batch layers.
